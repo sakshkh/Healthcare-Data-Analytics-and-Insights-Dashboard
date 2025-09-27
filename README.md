@@ -70,17 +70,6 @@ Finally I want to look at blood pressure management. Blood pressure is a key ind
   - Which race had the highest total number of patients with a BP of 140/90 before 2020?
   - Which race had the highest percentage of blood pressure readings that were above 140/90 and taken before 2020?
 
-In this healthcare analytics project, I build some dashoboards in tableau for flu shots, emergency room visits, and encounters.
-
-[View Flu Shot Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ImmunizationDashboard_17059437063380/Dashboard1)
-
-[View Emergency Room Visit Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ERDashboard_17056878215500/Dashboard1)
-
-[View Encounter Dashboard 1](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard1/Dashboard2)
-
-[View Encounter Dashboard 2](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard2/Dashboard1)
-
-
 
 
 
